@@ -15,7 +15,7 @@ A simple and efficient tool to upload photos and videos to **Instagram** directl
 ## Installation
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/marpace1/instgram-uploader---pc
+   git clone https://github.com/marpace1/instagram-uploader---pc
    cd instagram-uploader-pc
    ```
 2. **Install dependencies:**  
